@@ -7,6 +7,40 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorView.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorNineDotsAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorTriplePulseAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorFiveDotsAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorRotatingSquaresAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorDoubleBounceAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorTwoDotsAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorThreeDotsAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallPulseAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallClipRotateAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallClipRotatePulseAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallClipRotateMultipleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallRotateAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallZigZagAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallZigZagDeflectAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallTrianglePathAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallScaleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorLineScaleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorLineScalePartyAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallScaleMultipleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallPulseSyncAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallBeatAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorLineScalePulseOutAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorLineScalePulseOutRapidAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallScaleRippleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallScaleRippleMultipleAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorTriangleSkewSpinAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallGridBeatAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallGridPulseAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorRotatingSandglassAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorRotatingTrigonAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorTripleRingsAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorCookieTerminatorAnimation.h>
+#import <RNDGActivityIndicatorView/DGActivityIndicatorBallSpinFadeLoader.h>
 
 //! Project version number for RNDGActivityIndicatorView.
 FOUNDATION_EXPORT double RNDGActivityIndicatorViewVersionNumber;
@@ -15,39 +49,3 @@ FOUNDATION_EXPORT double RNDGActivityIndicatorViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char RNDGActivityIndicatorViewVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <RNDGActivityIndicatorView/PublicHeader.h>
-
-
-#import "DGActivityIndicatorView.h"
-#import "DGActivityIndicatorNineDotsAnimation.h"
-#import "DGActivityIndicatorTriplePulseAnimation.h"
-#import "DGActivityIndicatorFiveDotsAnimation.h"
-#import "DGActivityIndicatorRotatingSquaresAnimation.h"
-#import "DGActivityIndicatorDoubleBounceAnimation.h"
-#import "DGActivityIndicatorTwoDotsAnimation.h"
-#import "DGActivityIndicatorThreeDotsAnimation.h"
-#import "DGActivityIndicatorBallPulseAnimation.h"
-#import "DGActivityIndicatorBallClipRotateAnimation.h"
-#import "DGActivityIndicatorBallClipRotatePulseAnimation.h"
-#import "DGActivityIndicatorBallClipRotateMultipleAnimation.h"
-#import "DGActivityIndicatorBallRotateAnimation.h"
-#import "DGActivityIndicatorBallZigZagAnimation.h"
-#import "DGActivityIndicatorBallZigZagDeflectAnimation.h"
-#import "DGActivityIndicatorBallTrianglePathAnimation.h"
-#import "DGActivityIndicatorBallScaleAnimation.h"
-#import "DGActivityIndicatorLineScaleAnimation.h"
-#import "DGActivityIndicatorLineScalePartyAnimation.h"
-#import "DGActivityIndicatorBallScaleMultipleAnimation.h"
-#import "DGActivityIndicatorBallPulseSyncAnimation.h"
-#import "DGActivityIndicatorBallBeatAnimation.h"
-#import "DGActivityIndicatorLineScalePulseOutAnimation.h"
-#import "DGActivityIndicatorLineScalePulseOutRapidAnimation.h"
-#import "DGActivityIndicatorBallScaleRippleAnimation.h"
-#import "DGActivityIndicatorBallScaleRippleMultipleAnimation.h"
-#import "DGActivityIndicatorTriangleSkewSpinAnimation.h"
-#import "DGActivityIndicatorBallGridBeatAnimation.h"
-#import "DGActivityIndicatorBallGridPulseAnimation.h"
-#import "DGActivityIndicatorRotatingSandglassAnimation.h"
-#import "DGActivityIndicatorRotatingTrigonAnimation.h"
-#import "DGActivityIndicatorTripleRingsAnimation.h"
-#import "DGActivityIndicatorCookieTerminatorAnimation.h"
-#import "DGActivityIndicatorBallSpinFadeLoader.h"
